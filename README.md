@@ -22,7 +22,7 @@ To empower farmers through innovative, AI-driven, and data-driven agricultural s
 | Ambresh Gaud         | Team Member    |
 
 ---
-
+Frontened research initialized by Aditya.
 ## Tech Stack
 
 - Python
